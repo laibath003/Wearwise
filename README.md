@@ -4,8 +4,6 @@
 
 Wearwise is a modern menswear shopping experience built around minimalist fashion and personalized outfit discovery. It combines a curated clothing catalog with an AI-powered Style Advisor to help users discover products and create outfits that match their preferences.
 
-> **Project Status:** Portfolio project · Fictional demo catalog · No real purchases or payments
-
 ## Demo
 
 🎥 **Demo Video:** [Watch Wearwise](ADD_YOUR_DEMO_VIDEO_LINK)
