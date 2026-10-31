@@ -6,7 +6,7 @@ Wearwise is a modern menswear shopping experience built around minimalist fashio
 
 ## Demo
 
-🎥 **Demo Video:** [Watch Wearwise](ADD_YOUR_DEMO_VIDEO_LINK)
+🎥 **Demo Video:** https://github.com/user-attachments/assets/e58cd6d9-7ffa-4532-9b13-b66c9258d675
 
 ## Features
 
